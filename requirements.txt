@@ -1,2 +1,2 @@
 streamlit
-httpx_oauth.clients.google
+httpx_oauth
